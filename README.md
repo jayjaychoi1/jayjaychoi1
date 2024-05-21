@@ -1,4 +1,4 @@
-@jayjaychoi1
+@jayjaychoi1 \n
 cnx, sel 
 cmis, sogang
 
