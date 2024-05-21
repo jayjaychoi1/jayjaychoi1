@@ -1,3 +1,4 @@
+The basic intro outline: 
 - 👋 Hi, I’m @jayjaychoi1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning how to make websites
